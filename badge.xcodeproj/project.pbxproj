@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3964FBC9291E874A00110A7C /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3964FBC8291E874A00110A7C /* BadgeBackground.swift */; };
 		3964FBCB291E8E5E00110A7C /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3964FBCA291E8E5E00110A7C /* BadgeSymbol.swift */; };
+		3964FBCD291E8FE900110A7C /* RotateBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3964FBCC291E8FE900110A7C /* RotateBadgeSymbol.swift */; };
 		39AC0A9A291E81F70038CE21 /* badgeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39AC0A99291E81F70038CE21 /* badgeApp.swift */; };
 		39AC0A9C291E81F70038CE21 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39AC0A9B291E81F70038CE21 /* ContentView.swift */; };
 		39AC0A9E291E81FB0038CE21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39AC0A9D291E81FB0038CE21 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		3964FBC8291E874A00110A7C /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		3964FBCA291E8E5E00110A7C /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
+		3964FBCC291E8FE900110A7C /* RotateBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateBadgeSymbol.swift; sourceTree = "<group>"; };
 		39AC0A96291E81F60038CE21 /* badge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = badge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39AC0A99291E81F70038CE21 /* badgeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = badgeApp.swift; sourceTree = "<group>"; };
 		39AC0A9B291E81F70038CE21 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 			children = (
 				39AC0A99291E81F70038CE21 /* badgeApp.swift */,
 				39AC0A9B291E81F70038CE21 /* ContentView.swift */,
+				3964FBCC291E8FE900110A7C /* RotateBadgeSymbol.swift */,
 				3964FBCA291E8E5E00110A7C /* BadgeSymbol.swift */,
 				3964FBC8291E874A00110A7C /* BadgeBackground.swift */,
 				39AC0A9D291E81FB0038CE21 /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 			files = (
 				39AC0A9C291E81F70038CE21 /* ContentView.swift in Sources */,
 				3964FBCB291E8E5E00110A7C /* BadgeSymbol.swift in Sources */,
+				3964FBCD291E8FE900110A7C /* RotateBadgeSymbol.swift in Sources */,
 				3964FBC9291E874A00110A7C /* BadgeBackground.swift in Sources */,
 				39AC0A9A291E81F70038CE21 /* badgeApp.swift in Sources */,
 			);
